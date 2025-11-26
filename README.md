@@ -16,7 +16,3 @@ The data is the **Telco Customer Churn** dataset (Kaggle), containing **7,043** 
 - **Languages/Libraries:** Python, pandas, scikit-learn, XGBoost, imbalanced-learn (SMOTE), Matplotlib
 - **Environment:** Jupyter Notebook
 
-## How to Use
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
